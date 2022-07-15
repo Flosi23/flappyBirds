@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Button
+comment1.params=x\ y\ P\ label
+comment1.target=Button(int,\ int,\ processing.core.PApplet,\ java.lang.String)
+comment2.params=
+comment2.target=void\ draw()
+comment3.params=
+comment3.target=boolean\ mouseOverButton()
+comment4.params=callback
+comment4.target=void\ onClick(ButtonCallback)
+numComments=5

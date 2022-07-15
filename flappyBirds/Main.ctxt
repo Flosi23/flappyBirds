@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=void\ setup()
+comment1.text=\r\n\ \ \ \ Diese\ Methode\ wird\ einmal\ bei\ Programmstart\ ausgef\u00FChrt.\r\n
+comment2.params=
+comment2.target=void\ settings()
+comment2.text=\r\n\ \ \ \ Auch\ diese\ Methode\ wird\ einmal\ bei\ Programmstart\ ausgef\u00FChrt.\r\n\ \ \ \ In\ ihr\ werden\ die\ Ma\u00DFe\ des\ Fensters\ festgelegt\r\n
+comment3.params=
+comment3.target=void\ draw()
+comment3.text=\r\n\ \ \ \ Wird\ mehrmals\ pro\ Sekunde\ (abh\u00E4ngig\ von\ der\ frameRate)\ ausgef\u00FChrt.\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ \ \ \ Getter\ und\ Setter\ f\u00FCr\ score\ und\ highScore\r\n
+comment5.params=score
+comment5.target=void\ setScore(int)
+comment6.params=
+comment6.target=int\ getHighScore()
+comment7.params=highScore
+comment7.target=void\ setHighScore(int)
+numComments=8

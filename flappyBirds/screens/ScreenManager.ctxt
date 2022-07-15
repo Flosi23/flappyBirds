@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ScreenManager
+comment1.params=P
+comment1.target=ScreenManager(flappyBirds.Main)
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=
+comment3.target=void\ draw()
+comment4.params=screen
+comment4.target=void\ switchToScreen(Screen)
+comment5.params=
+comment5.target=void\ showStartScreen()
+comment6.params=
+comment6.target=void\ showEndScreen()
+comment7.params=
+comment7.target=void\ showGameScreen()
+numComments=8

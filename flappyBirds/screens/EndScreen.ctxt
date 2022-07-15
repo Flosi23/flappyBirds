@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EndScreen
+comment1.params=P\ screenManager
+comment1.target=EndScreen(flappyBirds.Main,\ ScreenManager)
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=
+comment3.target=void\ homeButtonClicked()
+comment4.params=
+comment4.target=void\ exitButtonClicked()
+comment5.params=
+comment5.target=void\ drawOnce()
+comment6.params=
+comment6.target=void\ draw()
+numComments=7

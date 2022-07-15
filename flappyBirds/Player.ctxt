@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=P
+comment1.target=Player(Main)
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ \ \ \ Wird\ mehrmals\ pro\ sekunde\ ausgef\u00FChrt.\r\n\ \ \ \ Ver\u00E4ndert\ die\ Geschwindigkeit\ des\ Spielers\ (Schwerkraft\ /\ springen)\ und\r\n\ \ \ \ bewegt\ ihn\r\n
+comment3.params=
+comment3.target=void\ updateVelocity()
+comment3.text=\r\n\ \ \ \ Wurde\ die\ Leertaste\ oder\ die\ Maus\ gedr\u00FCckt\ so\ wird\ die\ geschwindigkeit\ des\ Spielers\ negativ.\r\n\ \ \ \ Ansonsten\ wird\ der\ Spieler\ weiter\ nach\ unten\ beschleunigt\ au\u00DFer\ er\ ber\u00FChrt\ die\ obere\ oder\ untere\ Wand.\r\n
+comment4.params=
+comment4.target=boolean\ jumpActionTriggered()
+comment5.params=newVY
+comment5.target=boolean\ willBeInsideFrame(float)
+comment6.params=
+comment6.target=float\ getY()
+comment7.params=
+comment7.target=int\ getX()
+comment8.params=
+comment8.target=float\ getVy()
+numComments=9

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StartScreen
+comment1.params=P\ screenManager
+comment1.target=StartScreen(flappyBirds.Main,\ ScreenManager)
+comment2.params=
+comment2.target=void\ drawOnce()
+numComments=3

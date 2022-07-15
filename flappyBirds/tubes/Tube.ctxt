@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Tube
+comment1.params=P\ direction\ image
+comment1.target=Tube(flappyBirds.Main,\ TubeDirection,\ processing.core.PImage)
+comment2.params=
+comment2.target=void\ draw()
+comment2.text=\r\n\ \ \ \ Zeichnet\ ein\ Bild\ der\ R\u00F6hre\ auf\ den\ Bildschirm.\ Wird\ bei\ jedem\ Methodenaufruf\r\n\ \ \ \ um\ SPEED\ Pixel\ nach\ links\ bewegt\r\n
+comment3.params=player
+comment3.target=boolean\ beforePlayerHasChanged(flappyBirds.Player)
+comment3.text=\r\n\ \ \ \ Hilfsmethode\ um\ zu\ \u00FCberpr\u00FCfen,\ ob\ der\ Spieler\ sich\ seit\ dem\ letzten\ Aufruf\ der\ Methode\r\n\ \ \ \ an\ der\ R\u00F6hre\ vorbeibewegt\ hat\r\n
+comment4.params=player
+comment4.target=boolean\ collidesWithPlayer(flappyBirds.Player)
+comment4.text=\r\n\ \ \ \ \u00DCberpr\u00FCft,\ ob\ der\ Spieler\ mit\ dieser\ R\u00F6hre\ kollidiert\r\n
+comment5.params=
+comment5.target=int\ getWidth()
+comment6.params=
+comment6.target=float\ getX()
+comment7.params=
+comment7.target=float\ getY()
+numComments=8

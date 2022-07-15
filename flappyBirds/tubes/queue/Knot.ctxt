@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Knot
+comment1.params=tube
+comment1.target=Knot(flappyBirds.tubes.Tube)
+comment2.params=data
+comment2.target=Listelement\ insert(flappyBirds.tubes.Tube)
+comment3.params=
+comment3.target=Listelement\ getNext()
+comment4.params=
+comment4.target=void\ draw()
+comment5.params=player
+comment5.target=boolean\ collidesWithPlayer(flappyBirds.Player)
+comment6.params=player
+comment6.target=int\ calcScore(flappyBirds.Player)
+comment7.params=
+comment7.target=flappyBirds.tubes.Tube\ getTube()
+numComments=8
